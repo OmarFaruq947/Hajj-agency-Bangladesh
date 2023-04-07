@@ -26,7 +26,7 @@ const Booking = () => {
             />
             <div className="p-4 absolute bottom-0 left-0 z-20">
               <a
-                href="#"
+                href="/"
                 className="px-2 py-1 bg-primary text-accent inline-flex items-center justify-center mb-2"
               >
                 ⚠

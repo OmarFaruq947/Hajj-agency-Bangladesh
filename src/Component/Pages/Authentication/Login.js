@@ -53,9 +53,9 @@ const Login = () => {
                   >
                     Remember for 30 days
                   </label>
-                  <a href="#" className="text-xs font-semibold text-purple-700">
+                  <p className="text-xs font-semibold text-purple-700">
                     Forgot password?
-                  </a>
+                  </p>
                 </div>
                 <div className="mb-3">
                   <button className="mb-1.5 block w-full text-center text-white bg-purple-700 hover:bg-purple-900 px-2 py-1.5 rounded-md">
@@ -75,7 +75,7 @@ const Login = () => {
                 <span className="text-xs text-accent-400 font-semibold">
                   Don't have account?
                 </span>
-                <a href="#" className="text-xs font-semibold text-purple-700">
+                <a href="/#" className="text-xs font-semibold text-purple-700">
                   Sign up
                 </a>
               </div>
