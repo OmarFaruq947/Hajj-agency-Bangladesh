@@ -38,7 +38,6 @@ const About = () => {
 
                           <dd>
                             <a
-                              target="_blank"
                               href="https://omarfaruqmebd.netlify.app/"
                               className=" text-secondary"
                             >
