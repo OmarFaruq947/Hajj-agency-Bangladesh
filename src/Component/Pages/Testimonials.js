@@ -55,7 +55,7 @@ const Testimonials = () => {
                   Tacos pinterest fanny pack venmo, post-ironic heirloom
                   try-hard pabst authentic iceland.
                 </p>
-                <a href="" className="inline-flex items-center">
+                <a href="/#" className="inline-flex items-center">
                   <img
                     alt="testimonial"
                     src="https://dummyimage.com/107x107"
