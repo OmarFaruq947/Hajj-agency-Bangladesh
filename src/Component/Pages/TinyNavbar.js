@@ -125,9 +125,9 @@ const TinyNavbar = () => {
               </Link>
               <Link
                 to="/registration"
-                className=" px-2 bg-yellow-400 text-green-700 hover:text-green-900 rounded transition duration-300 text-white"
+                className=" px-2 bg-yellow-400  hover:text-green-900 rounded transition duration-300 text-white"
               >
-                <span>Register</span>{" "}
+                <span>Register</span>
               </Link>
             </div>
           </div>

@@ -40,7 +40,7 @@ const About = () => {
                             <a
                               target="_blank"
                               href="https://omarfaruqmebd.netlify.app/"
-                              className="text-primary text-secondary"
+                              className=" text-secondary"
                             >
                               @omarfaruq
                             </a>
