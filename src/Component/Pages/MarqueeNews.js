@@ -10,10 +10,7 @@ const MarqueeNews = () => {
       gradientWidth={100}
     >
       <p className="text-2xl py-5">
-        <a
-          target="_blank"
-          href="https://www.thedailystar.net/news/bangladesh/news/hajj-registration-deadline-poor-response-leads-final-extension-3266551#.ZC3-6ZIOjvU.link"
-        >
+        <a href="https://www.thedailystar.net/news/bangladesh/news/hajj-registration-deadline-poor-response-leads-final-extension-3266551#.ZC3-6ZIOjvU.link">
           Hajj Registration deadline: Poor response leads to ‘final’ extension
         </a>
       </p>

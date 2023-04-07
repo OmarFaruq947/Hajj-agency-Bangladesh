@@ -24,7 +24,7 @@ const Testimonials = () => {
                   Tacos pinterest fanny pack venmo, post-ironic heirloom
                   try-hard pabst authentic iceland.
                 </p>
-                <a className="inline-flex items-center">
+                <a href="/#" className="inline-flex items-center">
                   <img
                     alt="testimonial"
                     src="https://dummyimage.com/106x106"
@@ -32,7 +32,7 @@ const Testimonials = () => {
                   />
                   <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-accent">
-                      Holden Caulfield
+                      Holden Canfield
                     </span>
                     <span className="text-accent text-sm">UI DEVELOPER</span>
                   </span>

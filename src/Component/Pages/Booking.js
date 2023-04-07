@@ -21,6 +21,7 @@ const Booking = () => {
               }}
             />
             <img
+              alt="loading..."
               src={banner}
               className="absolute left-0 top-0 w-full h-full z-0 object-cover"
             />
@@ -88,10 +89,7 @@ const Booking = () => {
                       </h1>
                     </div>
 
-                    <a
-                      href="https://docs.google.com/forms/d/e/1FAIpQLSeuIOFFzUWpc23qS4nO2YxlO2wbbZLv97tZfs0-dfg8u8jXyA/viewform?usp=share_link"
-                      target="_blank"
-                    >
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuIOFFzUWpc23qS4nO2YxlO2wbbZLv97tZfs0-dfg8u8jXyA/viewform?usp=share_link">
                       <button
                         role="button"
                         aria-label="Join the community"
